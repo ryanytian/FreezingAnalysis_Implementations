@@ -4,6 +4,6 @@ This repository contains the implementations of ezTrack and OpenCV Object Tracke
 
 For a more extensive version of ezTrack that is able to batch process videos and contains the motion tracking module, please visit the original author's repository at https://github.com/DeniseCaiLab/ezTrack.
 
-The training data set, evaluation results, and a sample labeled video using the trained neural network from DeepLabCut is also included here. See inside the folder 'DeepLabCut'.
+The training data set, evaluation results, and a sample labeled video using the trained neural network from DeepLabCut is also included here in this repository. See inside the folder 'DeepLabCut'.
 
 To download the DeepLabCut software and for instructions of how to use the software, please visit http://www.mousemotorlab.org/deeplabcut.
